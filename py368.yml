@@ -175,5 +175,5 @@ dependencies:
     - wordcloud==1.5.0
     - zc-lockfile==1.4
     - zipp==0.5.2
-prefix: /home/janlampe25/anaconda3/envs/py368
+prefix: /home/ubuntu/anaconda3/envs/py368
 
